@@ -1,0 +1,22 @@
+{
+  "name": "disney-hotstar-clone",
+  "version": "1.0.0",
+  "description": "A Simple Disney Hotstar Login Page Project.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [
+    "login",
+    "clone",
+    "movies",
+    "hotstar",
+    "disney"
+  ]
+}
